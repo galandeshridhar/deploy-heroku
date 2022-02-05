@@ -37,10 +37,10 @@ rsa==4.0
 scipy
 six==1.14.0
 tensorboard==1.14.0
-tensorflow==1.14.0
-tensorflow-estimator==1.14.0
-termcolor==1.1.0
-urllib3==1.25.9
-Werkzeug==1.0.1
-wrapt==1.12.1
-zipp==3.1.0
+tensorflow
+tensorflow-estimator
+termcolor
+urllib3
+Werkzeug
+wrapt
+zipp
